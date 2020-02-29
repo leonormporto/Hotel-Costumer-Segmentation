@@ -1,0 +1,44 @@
+Bins
+
+AverageLeadtTime:
+
+ - Antecedência Elevada (mais de um ano): >365
+ - Antecência média : 6 meses - 1 ano (183)
+ - Antecendia pequena: 1 a 6 meses
+ - Antecedêbcia reduzida: < 1 mês
+
+Room Nights:
+ - normal: 1 a 3
+ - intermédio: 3 a 15
+ - elevado: > 15
+
+BookingsCanceled:
+
+ - > 0 - já cancelou
+ - = 0 - nunca cancelou
+
+BookingsNoShowed:
+ - > 0 - não apareceu
+ - = 0 - apareceu sempre
+
+BookingCheckedIn:
+
+ - normal = 1
+ - médio = 1 a 4
+ - frequente: > 4
+
+Lodging/Bok:
+ - Baixo: < 500€ por booking
+ - Médio: > 500€ & < 4000€ 
+ - Alto: > 4000€
+
+OtherRev/Bok:
+ - Baixo: < 60€
+ - Médio: >60€ & <1250€
+ - Alto: > 1250€
+
+Bookings/Day:
+ - Pouco Frequente:< 0.01
+ - Frequente: >0.01 & <0.05
+ - Muito Frequente: > 0.05
+
